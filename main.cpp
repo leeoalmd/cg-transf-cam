@@ -87,22 +87,6 @@ void carregar_arquivo()
 
             objetos_cena.push_back(bar);
         } else if (nome_objeto == "freezer") {
-//            arquivo >> tr_x >> tr_y >> tr_z;
-//            arquivo >> rt_x >> rt_y >> rt_z;
-//            arquivo >> sc_x >> sc_y >> sc_z;
-
-//            freezer->tr.x = tr_x;
-//            freezer->tr.y = tr_y;
-//            freezer->tr.z = tr_z;
-
-//            freezer->rt.x = rt_x;
-//            freezer->rt.y = rt_y;
-//            freezer->rt.z = rt_z;
-
-//            freezer->sc.x = sc_x;
-//            freezer->sc.y = sc_y;
-//            freezer->sc.z = sc_z;
-
             arquivo >> tr_.x >> tr_.y >> tr_.z;
             arquivo >> rt_.x >> rt_.y >> rt_.z;
             arquivo >> sc_.x >> sc_.y >> sc_.z;
@@ -132,14 +116,6 @@ void carregar_arquivo()
             oculos->sc.x = sc_x;
             oculos->sc.y = sc_y;
             oculos->sc.z = sc_z;
-
-//            arquivo >> tr_.x >> tr_.y >> tr_.z;
-//            arquivo >> rt_.x >> rt_.y >> rt_.z;
-//            arquivo >> sc_.x >> sc_.y >> sc_.z;
-
-//            oculos->tr = tr_;
-//            oculos->rt = rt_;
-//            oculos->sc = sc_;
 
             objetos_cena.push_back(oculos);
         } else if (nome_objeto == "sanfona") {

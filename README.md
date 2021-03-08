@@ -1,3 +1,7 @@
-# cg-transf-cam
-<h3>Repositório contendo o código do Trabalho 1 da disciplina de Computação Gráfica, referente à transformações e câmeras, durante o semestre de 2020.2 na UFC de Quixadá.</h3>
-<p><a href="https://youtu.be/4R0afNwUalY">Aqui</a> é possível encontrar um vídeo com a explicação e execução do código, caso se faça necessário.</p>
+# Computação Gráfica - Trabalho 1: Câmeras e Transformações
+
+### Repositório contendo o código desenvolvido na disciplina de Computação Gráfica durante o semestre de 2020.2 na UFC de Quixadá.
+
+**[Aqui](https://youtu.be/4R0afNwUalY)** é possível encontrar um vídeo com a explicação e execução do código, caso se faça necessário.
+
+![Bar de Nego Cecéu](pre_vis_cenario.png?raw=true "Pré-visualização do cenário")

@@ -4,4 +4,4 @@
 
 **[Aqui](https://youtu.be/4R0afNwUalY)** é possível encontrar um vídeo com a explicação e execução do código, caso se faça necessário.
 
-![Bar de Nego Cecéu](pre_vis_cenario.png?raw=true "Pré-visualização do cenário")
+![](pre_vis_cenario.png?raw=true "Pré-visualização do cenário: Bar de Nego Cecéu")
